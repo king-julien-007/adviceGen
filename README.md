@@ -1,10 +1,10 @@
 # API Study 🔍
 
-A minimal glassmorphic web project that fetches advice using the [API Ninjas Advice API](https://api-ninjas.com/api/advice) and displays it dynamically. Built for learning Fetch API and clean UI design.
+A minimal glassmorphic web project that fetches advice using the [API Ninjas Advice API](https://api-ninjas.com/api/advice) and displays it dynamically. Built for learning the Fetch API and clean UI design.
 
 ## 🚀 Demo
 
-[👉 View Demo]([https://king-julien-007.github.io/adviceGen/])  
+[👉 View Demo](https://king-julien-007.github.io/adviceGen/) 
 
 ## 🛠️ Features
 
