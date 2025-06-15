@@ -4,7 +4,7 @@ A minimal glassmorphic web project that fetches advice using the [API Ninjas Adv
 
 ## 🚀 Demo
 
-[👉 View Demo]([https://your-demo-link.netlify.app](https://king-julien-007.github.io/adviceGen/))  
+[👉 View Demo]([https://king-julien-007.github.io/adviceGen/])  
 
 ## 🛠️ Features
 
